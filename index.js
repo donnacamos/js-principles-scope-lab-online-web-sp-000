@@ -1,7 +1,6 @@
 // Write your solution in this file!
-var customerName = Jenny 
+var customerName = Jenny
 
 function upperCaseCustomerName(){
   customerName;
 };
-
